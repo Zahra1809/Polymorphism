@@ -1,0 +1,6 @@
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Tugas\09\Polymorphism 02\Polymorphism 02\bin\Debug\Polymorphism 02.exe.config
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Tugas\09\Polymorphism 02\Polymorphism 02\bin\Debug\Polymorphism 02.exe
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Tugas\09\Polymorphism 02\Polymorphism 02\bin\Debug\Polymorphism 02.pdb
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Tugas\09\Polymorphism 02\Polymorphism 02\obj\Debug\Polymorphism 02.csprojResolveAssemblyReference.cache
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Tugas\09\Polymorphism 02\Polymorphism 02\obj\Debug\Polymorphism 02.exe
+D:\Punya Zahra\Amikom\Semester 2\Pemrograman\Tugas\09\Polymorphism 02\Polymorphism 02\obj\Debug\Polymorphism 02.pdb
